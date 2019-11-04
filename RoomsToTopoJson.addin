@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RoomsToTopoJson</Name>
+    <Assembly>RoomsToTopoJson\RoomsToTopoJson.dll</Assembly>
+    <FullClassName>RoomsToTopoJson.App</FullClassName>
+    <ClientId>3256F49C-7F76-4766-8992-3F1CF468BE9B</ClientId>
+    <VendorId>ENG</VendorId>
+    <VendorDescription>ENGworks, http://www.engworks.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
